@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glass_white_default">#26FFFFFF</color>
+    <color name="glass_white_border">#40FFFFFF</color>
+    <color name="glass_white_focused">#59FFFFFF</color>
+    <color name="glass_white_focused_border">#CCFFFFFF</color>
+    <color name="text_white">#FFFFFFFF</color>
+    <color name="text_sub">#B3FFFFFF</color>
+</resources>
